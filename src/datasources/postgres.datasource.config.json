@@ -2,7 +2,7 @@
   "name": "postgres",
   "connector": "postgresql",
   "url": "",
-  "host": "loopback.ctwnnpfxxzig.us-east-1.rds.amazonaws.com",
+  "host": "jcloop.ctwnnpfxxzig.us-east-1.rds.amazonaws.com",
   "port": 5432,
   "user": "postgres",
   "password": "postgres",
